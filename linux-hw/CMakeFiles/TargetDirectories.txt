@@ -1,0 +1,3 @@
+/home/yxf/software/linux-hw/CMakeFiles/rebuild_cache.dir
+/home/yxf/software/linux-hw/CMakeFiles/linux_hw.dir
+/home/yxf/software/linux-hw/CMakeFiles/edit_cache.dir
